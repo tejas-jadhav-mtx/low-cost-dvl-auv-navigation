@@ -1,0 +1,13 @@
+scenario,dvl,bottom_lock_pct,beam_noise_mps,final_err_m,max_err_m,rms_err_m,map_cover_pct,map_rmse_m,map_bias_m
+pond,Ours – 4 receivers, uncalibrated,60.7,0.0141,1.48,16.03,2.55,59.3,0.180,0.053
+pond,Ours – 4 receivers, GPS-calibrated,60.7,0.0141,0.24,16.03,2.45,58.5,0.163,0.031
+pond,Ours – Rs 10k (1 receiver), calibrated,60.7,0.0282,0.59,16.03,2.51,58.3,0.171,0.041
+pond,Ours – better damping (0.5 ms ring-down), calibrated,100.0,0.0101,0.48,0.60,0.31,88.8,0.094,-0.012
+pond,Water Linked A50 – Standard,100.0,0.0133,0.49,1.36,0.81,83.8,0.131,0.020
+pond,Water Linked A50 – Performance,100.0,0.0133,0.17,0.81,0.48,87.6,0.104,0.002
+lake,Ours – 4 receivers, uncalibrated,96.4,0.0228,5.05,5.07,2.91,79.4,0.665,-0.169
+lake,Ours – 4 receivers, GPS-calibrated,96.4,0.0228,2.44,2.68,1.37,78.1,0.515,-0.068
+lake,Ours – Rs 10k (1 receiver), calibrated,96.4,0.0455,2.17,3.00,1.23,78.6,0.468,-0.096
+lake,Ours – better damping (0.5 ms ring-down), calibrated,96.4,0.0213,2.42,2.65,1.37,78.1,0.515,-0.067
+lake,Water Linked A50 – Standard,100.0,0.0298,4.88,4.90,2.78,79.7,0.458,-0.030
+lake,Water Linked A50 – Performance,100.0,0.0298,3.59,3.61,2.08,78.1,0.418,0.038
